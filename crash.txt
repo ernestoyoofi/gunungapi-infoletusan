@@ -1,0 +1,28 @@
+[2024-01-30T14:25:06.644Z Error]: 
+ReferenceError: MAGMAESDM_REPORTURL is not defined
+    at GetLastInformation (D:\Yofi\Programming\@ernestoyoofi\gunungapi-infoletusan\informasi-event.js:29:37)
+    at __TimeLoop (D:\Yofi\Programming\@ernestoyoofi\gunungapi-infoletusan\informasi-event.js:113:28)
+    at Object.EventTimeNotification (D:\Yofi\Programming\@ernestoyoofi\gunungapi-infoletusan\informasi-event.js:129:3)
+    at Object.<anonymous> (D:\Yofi\Programming\@ernestoyoofi\gunungapi-infoletusan\server.js:24:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+[2024-01-30T14:25:03.166Z Error]: 
+ReferenceError: MAGMAESDM_REPORTURL is not defined
+    at GetLastInformation (D:\Yofi\Programming\@ernestoyoofi\gunungapi-infoletusan\informasi-event.js:29:37)
+    at __TimeLoop (D:\Yofi\Programming\@ernestoyoofi\gunungapi-infoletusan\informasi-event.js:113:28)
+    at Object.EventTimeNotification (D:\Yofi\Programming\@ernestoyoofi\gunungapi-infoletusan\informasi-event.js:129:3)
+    at Object.<anonymous> (D:\Yofi\Programming\@ernestoyoofi\gunungapi-infoletusan\server.js:24:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+[2024-01-30T14:05:59.100Z Error]: 
+TypeError: Cannot read properties of undefined (reading 'trim')
+    at GetDetailRequest (D:\Yofi\Programming\@ernestoyoofi\gunungapi-infoletusan\informasi-event.js:76:89)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
